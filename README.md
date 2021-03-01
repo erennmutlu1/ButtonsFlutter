@@ -1,4 +1,4 @@
-# buttoms
+# Buttons
 
 A new Flutter application.
 
